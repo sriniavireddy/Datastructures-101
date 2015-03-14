@@ -25,19 +25,19 @@ This repo was compiled by [Srinivas Avireddy](https://www.facebook.com/srinvas).
 ## Table of Contents
 
 - [Arrays](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#arrays)
-- [Linked List](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Linked-List)
-- [Stacks](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Stacks)
-- [Queues](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Queues)
-- [Binary Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Binary-Tree)
-- [Binary Search Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Binary-Search-Tree)
-- [Graph](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Graph)
-- [Hash Table](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Hash-Table)
-- [B tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#B-Tree)
-- [Trie](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Trie)
-- [AVL Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#AVL-Tree)
-- [Red Black Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Red-Black-Tree)
-- [Searching Algorithms] (https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Searching-Algorithms)
-- [Sorting Algorithms] (https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#Sorting-Algorithms)
+- [Linked List](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#linked-list)
+- [Stacks](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#stacks)
+- [Queues](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#queues)
+- [Binary Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#binary-tree)
+- [Binary Search Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#binary-search-tree)
+- [Graph](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#graph)
+- [Hash Table](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#hash-table)
+- [B tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#b-tree)
+- [Trie](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#trie)
+- [AVL Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#avl-tree)
+- [Red Black Tree](https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#red-black-tree)
+- [Searching Algorithms] (https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#searching-algorithms)
+- [Sorting Algorithms] (https://github.com/sriniavireddy/Datastructures-101/blob/master/README.md#sorting-algorithms)
 
 
 Arrays
