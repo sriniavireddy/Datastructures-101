@@ -94,12 +94,12 @@ Reb Black tree
 
 
 
-Graphics and Multimedia
+Searching Algorithms
 ---------
 
 
 
-Security
+Sorting Algorithms
 -------------
 
 
